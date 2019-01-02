@@ -13,6 +13,12 @@
 
 > Input Needed : .txt file ( WhatsApp Chat Data )
 
+---
+
+- #### Co-Contributor : https://github.com/Sudz24/Chat-Analysis
+
+---
+
 ### How to Use:
 
 1. Download the .py file from this repository.
