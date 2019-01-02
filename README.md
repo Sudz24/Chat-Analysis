@@ -1,6 +1,10 @@
 # WhatsApp Chat Analyzer
 
-#### The Python project uses basics of NLP ( Natural Language Processing ) and produces the following results, when your WhatsApp Chat data is given as Input:
+> #### _"Why not explore your daily WhatsApp chats and have some fun with what we infer?"_
+
+---
+
+#### This Python project uses the basics of NLP ( Natural Language Processing ) and produces the following results, when your WhatsApp Chat data is given as Input:
 > -  Top 10 Most Used Emojis in the Chat, with their counts.
 > - Most Used Words in the Chat with their counts.
 > - A plot describing the most used words.
@@ -31,6 +35,8 @@
 4. Run the script. A dialogue box opens, prompting you to choose the .txt File.
 
 5. After choosing the file, Results will be displayed on screen.
+
+---
 
 ### Sample Screenshots:
 > #### Input File Prompt
