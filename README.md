@@ -25,3 +25,16 @@
 4. Run the script. A dialogue box opens, prompting you to choose the .txt File.
 
 5. After choosing the file, Results will be displayed on screen.
+
+### Sample Screenshots:
+> #### Input File Prompt
+![alt text](https://github.com/Sudz24/Chat-Analysis/blob/master/Input.png)
+
+
+> #### Output of Emoji and Word Counts.
+
+![alt text](https://github.com/Sudz24/Chat-Analysis/blob/master/Output.png)
+
+> #### Plot of the Most Used Words and Count
+
+![alt text](https://github.com/Sudz24/Chat-Analysis/blob/master/Words%20Plot.png)
