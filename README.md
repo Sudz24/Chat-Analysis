@@ -15,7 +15,7 @@
 
 ---
 
-- #### Co-Contributor : https://github.com/Sudz24/Chat-Analysis
+- #### Co-Contributor : https://github.com/harshithmohan
 
 ---
 
