@@ -146,7 +146,8 @@ if __name__ == "__main__":
 
     os.chdir(os.path.dirname(os.path.realpath(__file__))) # Change current directory to the program's directory
 
-    f = open('results_' + str(os.path.splitext(os.path.basename(filename))[0]) + '.html', 'w')
+    output_file = 'results_' + str(os.path.splitext(os.path.basename(filename))[0]) + '.html'
+    f = open(output_file, 'w')
 
     # Make images directory if it doesn't exist
     if not os.path.exists('images'):
@@ -167,3 +168,9 @@ if __name__ == "__main__":
     Emoji(df)
 
     f.close()
+
+    if os.name == 'posix':
+        import subprocess
+        subprocess.call(['xdg-open', output_file])
+    else:
+        os.startfile(output_file)
