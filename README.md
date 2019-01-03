@@ -13,7 +13,7 @@
 
 > Language : Python ( Script )
 
-> Packages Required : matplotlib, nltk, emoji, tkinter, pandas
+> Packages Required : matplotlib, nltk, emoji, tkinter, pandas, mplcairo
 
 > Input Needed : .txt file ( WhatsApp Chat Data )
 
