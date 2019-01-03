@@ -4,7 +4,7 @@ import os
 import pandas as pd
 import seaborn as sns
 import matplotlib
-matplotlib.use("module://mplcairo.tk")
+matplotlib.use("module://mplcairo.base")
 import matplotlib.pyplot as plt
 import emoji
 from matplotlib.font_manager import FontProperties
