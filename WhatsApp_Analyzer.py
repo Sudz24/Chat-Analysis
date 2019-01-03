@@ -96,7 +96,8 @@ def Emoji(df):
         for each in e:
             emojis.append(each)
 
-    emojis = list(filter(lambda a: a != ':male_sign:', emojis))
+    #Removing male and female signs
+    emojis = list(filter(lambda a: a != ':male_sign:' and a != ':female_sign:', emojis))
     
     print("\nTotal No. of Emojis Used: ", len(emojis))
 
