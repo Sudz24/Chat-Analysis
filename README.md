@@ -45,9 +45,9 @@
 
 > #### Output of Emoji and Word Counts (in HTML File )
 
-![alt text](https://github.com/Sudz24/Chat-Analysis/blob/master/Top%2010%Words.png)
+![alt text](https://github.com/Sudz24/Chat-Analysis/blob/master/Top%2010%20Words.png)
 
-![alt text](https://github.com/Sudz24/Chat-Analysis/blob/master/Top%2010%Emoji.png)
+![alt text](https://github.com/Sudz24/Chat-Analysis/blob/master/Top%2010%20Emoji.png)
 
 > #### Plot of the Most Used Words and Count
 
