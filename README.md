@@ -34,7 +34,7 @@
 
 4. Run the script. A dialogue box opens, prompting you to choose the .txt File.
 
-5. After choosing the file, Results will be displayed on screen.
+5. After choosing the file, Results will be displayed in a HTML file, that you can share easily.
 
 ---
 
@@ -43,10 +43,14 @@
 ![alt text](https://github.com/Sudz24/Chat-Analysis/blob/master/Input.png)
 
 
-> #### Output of Emoji and Word Counts.
+> #### Output of Emoji and Word Counts (in HTML File )
 
-![alt text](https://github.com/Sudz24/Chat-Analysis/blob/master/Output.png)
+![alt text](https://github.com/Sudz24/Chat-Analysis/blob/master/Top%2010%Words.png)
+
+![alt text](https://github.com/Sudz24/Chat-Analysis/blob/master/Top%2010%Emoji.png)
 
 > #### Plot of the Most Used Words and Count
 
 ![alt text](https://github.com/Sudz24/Chat-Analysis/blob/master/Words%20Plot.png)
+
+![alt text](https://github.com/Sudz24/Chat-Analysis/blob/master/Emoji%20Plot.png)
